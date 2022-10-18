@@ -1,0 +1,18 @@
+/**
+* @name Basic Red
+* @version Auto Update
+* @description Basic Red
+* @author huh#1838
+* @Source https://github.com/imnotmaybe/Basic-Red
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/tranquil.css");
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+:root {
+--roundness: 50px;
+--main-color: #760004FF;
+--hover-color: #B90000FF;
+--home-color: #760004FF;
+--shadow: #000000B7;
+--HSL-server-icon-size: 44px;
+--HSL-server-spacing: 10px;
+}
